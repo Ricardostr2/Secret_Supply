@@ -1,0 +1,17 @@
+/* header*/
+html body{
+  background-color: black;
+  color:white;
+}
+header
+{
+  display: inline-flex;
+  justify-content: flex-start;
+}
+header img{
+  margin: 10px 10px;
+}
+header h1{
+  text-transform: uppercase;
+}
+/* New Arrival*/
